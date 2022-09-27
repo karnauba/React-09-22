@@ -1,0 +1,42 @@
+.nupp {
+  background-color: green;
+  color: lightgrey;
+  
+}
+
+.nupp:hover {
+
+  height: 100px;
+
+}
+
+.nupp:active {
+
+  cursor: grab;
+
+}
+
+.text {
+  
+  color: rgb(55, 125, 216);
+  font-style: italic;
+
+}
+
+.text:hover {
+
+  font-size: 24px;
+
+}
+
+.pilt {
+
+  float: right;
+
+}
+
+body {
+
+  background-color: black;
+
+}
